@@ -14,6 +14,14 @@ public class Sheep{
         this.type=type;
     }
 }
+public class Pig{
+    private name;
+    private type;
+    public void setPig(string name,string type){
+        this.name=name;
+        this.type=type;
+    }
+}
 public class Tiger{
     private name;
     private type;
